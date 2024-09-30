@@ -1,5 +1,5 @@
 # Student-Portal-DBMS
-Student Portal Database Management System
+# Student Portal Database Management System
 
 Designed and developed a Student Portal Database Management System using MySQL, consisting of 8 interconnected tables to manage student information, courses, fees, exams, and projects.
 
@@ -11,4 +11,5 @@ Integrated user authentication and authorization using a dedicated login table, 
 
 Achieved streamlined management of student records and academic information through robust relational database design and optimization.
 
-![Relational Schema](StudentPortal Relational Schema.png)
+
+![StudentPortal Relational Schema](https://github.com/user-attachments/assets/d02e561a-60dc-40e2-b891-2557ab492d21)
